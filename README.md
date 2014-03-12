@@ -1,4 +1,4 @@
 Bcrypt
 ======
 
-Password Authentication with Node, Mongoose and bcypt
+Password authentication with node, mongoose and bcypt
